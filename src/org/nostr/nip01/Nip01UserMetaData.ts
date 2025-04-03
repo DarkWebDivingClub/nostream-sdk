@@ -9,7 +9,8 @@ import {AbstractEventProcessor} from '../ses/StaticEventsProcessor.js'
 
 export enum UserType {
     INDIVIDUAL = 'individual',
-    COMMUNITY = 'community'
+    COMMUNITY = 'community',
+    SERVICE = 'service',
 }
 
 const stringToEnum = (value: string): UserType | undefined => {
