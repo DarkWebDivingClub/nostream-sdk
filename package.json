@@ -1,6 +1,6 @@
 {
   "name": "@nostream/sdk",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Library that support Nostr messages",
   "type": "module",
   "types": "./dist/index.d.ts",
