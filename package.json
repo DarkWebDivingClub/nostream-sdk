@@ -97,6 +97,14 @@
   "keywords": [],
   "author": "Rene Malmgren",
   "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DarkWebDivingClub/nostream-sdk.git"
+  },
+  "homepage": "https://github.com/DarkWebDivingClub/nostream-sdk",
+  "bugs": {
+    "url": "https://github.com/DarkWebDivingClub/nostream-sdk/issues"
+  },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
     "@types/chai": "^5.0.1",
