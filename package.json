@@ -1,5 +1,5 @@
 {
-  "name": "iz-nostrlib",
+  "name": "@nostream/sdk",
   "version": "0.2.4",
   "description": "Library that support Nostr messages",
   "type": "module",
@@ -131,5 +131,8 @@
     "deepmerge": "^4.3.1",
     "node-ssh": "^13.2.0",
     "nostr-tools": "^2.10.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

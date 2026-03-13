@@ -1,4 +1,4 @@
-import {AbstractNipMiniEvent} from 'iz-nostrlib';
+import {AbstractNipMiniEvent} from '@nostream/sdk';
 import {type TrustedEvent} from '@red-token/welshman/util';
 import {hash, Nip01Signer, own} from '@red-token/welshman/signer';
 import {generateSecretKey, getPublicKey, verifyEvent} from 'nostr-tools/pure';

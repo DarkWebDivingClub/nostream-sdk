@@ -1,4 +1,4 @@
-# iz-nostrlib
+# @nostream/sdk
 Library that support Nostr messges
 
 

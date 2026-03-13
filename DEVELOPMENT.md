@@ -2,7 +2,7 @@
 
 All commits to the git repo that must be signed, we use iz-keyvault to generate the keys.
 
-When you are working with multiple modules, ie welshman, iz-nostrlib and iz-stream
+When you are working with multiple modules, ie welshman, @nostream/sdk and iz-stream
 
 you use this to start a patch (bugfix):
 
