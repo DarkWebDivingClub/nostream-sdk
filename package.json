@@ -8,67 +8,67 @@
     ".": {
       "import": "./dist/index.mjs",
       "types": "./dist/index.d.ts",
-      "require": "./dist/index.cjs"
+      "require": "./dist/index.js"
     },
     "./nips": {
       "import": "./dist/org/nostr/nips/index.mjs",
       "types": "./dist/org/nostr/nips/index.d.ts",
-      "require": "./dist/org/nostr/nips/index.cjs"
+      "require": "./dist/org/nostr/nips/index.js"
     },
     "./communities": {
       "import": "./dist/org/nostr/communities/index.mjs",
       "types": "./dist/org/nostr/communities/index.d.ts",
-      "require": "./dist/org/nostr/communities/index.cjs"
+      "require": "./dist/org/nostr/communities/index.js"
     },
     "./ses": {
       "import": "./dist/org/nostr/ses/index.mjs",
       "types": "./dist/org/nostr/ses/index.d.ts",
-      "require": "./dist/org/nostr/ses/index.cjs"
+      "require": "./dist/org/nostr/ses/index.js"
     },
     "./seederbot": {
       "import": "./dist/org/nostr/seederbot/index.mjs",
       "types": "./dist/org/nostr/seederbot/index.d.ts",
-      "require": "./dist/org/nostr/seederbot/index.cjs"
+      "require": "./dist/org/nostr/seederbot/index.js"
     },
     "./util": {
       "import": "./dist/org/nostr/util/index.mjs",
       "types": "./dist/org/nostr/util/index.d.ts",
-      "require": "./dist/org/nostr/util/index.cjs"
+      "require": "./dist/org/nostr/util/index.js"
     },
     "./nip01": {
       "import": "./dist/org/nostr/nip01/index.mjs",
       "types": "./dist/org/nostr/nip01/index.d.ts",
-      "require": "./dist/org/nostr/nip01/index.cjs"
+      "require": "./dist/org/nostr/nip01/index.js"
     },
     "./nip02": {
       "import": "./dist/org/nostr/nip02/index.mjs",
       "types": "./dist/org/nostr/nip02/index.d.ts",
-      "require": "./dist/org/nostr/nip02/index.cjs"
+      "require": "./dist/org/nostr/nip02/index.js"
     },
     "./nip25": {
       "import": "./dist/org/nostr/nip25/index.mjs",
       "types": "./dist/org/nostr/nip25/index.d.ts",
-      "require": "./dist/org/nostr/nip25/index.cjs"
+      "require": "./dist/org/nostr/nip25/index.js"
     },
     "./nip35": {
       "import": "./dist/org/nostr/nip35/index.mjs",
       "types": "./dist/org/nostr/nip35/index.d.ts",
-      "require": "./dist/org/nostr/nip35/index.cjs"
+      "require": "./dist/org/nostr/nip35/index.js"
     },
     "./nip52": {
       "import": "./dist/org/nostr/nip52/index.mjs",
       "types": "./dist/org/nostr/nip52/index.d.ts",
-      "require": "./dist/org/nostr/nip52/index.cjs"
+      "require": "./dist/org/nostr/nip52/index.js"
     },
     "./nip65": {
       "import": "./dist/org/nostr/nip65/index.mjs",
       "types": "./dist/org/nostr/nip65/index.d.ts",
-      "require": "./dist/org/nostr/nip65/index.cjs"
+      "require": "./dist/org/nostr/nip65/index.js"
     },
     "./nip78": {
       "import": "./dist/org/nostr/nip78/index.mjs",
       "types": "./dist/org/nostr/nip78/index.d.ts",
-      "require": "./dist/org/nostr/nip78/index.cjs"
+      "require": "./dist/org/nostr/nip78/index.js"
     }
   },
   "directories": {
